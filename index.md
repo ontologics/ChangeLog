@@ -2,6 +2,7 @@
 # 2022.02.09 (Hotfix)
 ## Bug Fixes
 - Lazy load `Description` and `Claims` fields in <a href="https://portal.ontologicsdata.com/patent/search">Patent Search</a> to alleviate timeout issue
+
 <a name="2022.02.08"></a>
 # 2022.02.08 (Hotfix)
 ## Bug Fixes
