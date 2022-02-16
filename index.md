@@ -9,7 +9,7 @@
    * See which technical areas are set to expire sooner or later
    
 ## Bug Fixes
-- Technology comparison charts not grouping companies in company reports.
+- Technology comparison charts not grouping companies in company reports. So only first selected comapany's average score was shown.
 
 <a name="2022.02.08"></a>
 # 2022.02.09 (Hotfix)
