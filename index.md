@@ -7,7 +7,7 @@
    * Review the expected expiration of a portfolio
    * Find out how their expiration funnel stacks up
    * See which technical areas are set to expire sooner or later
-   * 
+   
 ## Bug Fixes
 - Technology comparison charts not grouping companies in company reports.
 
