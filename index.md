@@ -1,3 +1,9 @@
+<a name="2022.02.17 (Hotfix)"></a>
+# 2022.02.17
+## Bug Fixes
+- Spelling issues on <a href="https://portal.ontologicsdata.com/home/company">Home - Company</a> page.
+
+
 <a name="2022.02.16.1 (Hotfix)"></a>
 # 2022.02.16.1
 ## Bug Fixes
