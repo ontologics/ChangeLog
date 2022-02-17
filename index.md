@@ -1,11 +1,11 @@
-<a name="2022.02.17 (Hotfix)"></a>
-# 2022.02.17
+<a name="2022.02.17"></a>
+# 2022.02.17 (Hotfix)
 ## Bug Fixes
 - Spelling issues on <a href="https://portal.ontologicsdata.com/home/company">Home - Company</a> page.
 
 
-<a name="2022.02.16.1 (Hotfix)"></a>
-# 2022.02.16.1
+<a name="2022.02.16.1"></a>
+# 2022.02.16.1 (Hotfix)
 ## Bug Fixes
 - Patent charts ignore date range and kind filters. Introduced in <a href="#2022.02.16">2022.02.16</a>
 
