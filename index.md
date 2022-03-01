@@ -1,3 +1,17 @@
+<a name="2022.03.01"></a>
+# 2022.03.01
+## Features
+* ### Industry Report Improvements
+   * Custom Industry by company updated to only use Technology Areas that make up 80% of the company's portfolio
+   * Added Relatedness range slider to Custom Industry by Company, CPC Code, and Patent to allow user to specify how closely related the technologies in the custom industry are to the original selection. ![image](industryrelatedness.png)
+   * Removed vague Technology Area from search results
+* ### Technology Hierarchy Added
+  * Ability to click on a technology to see the hierarchy, which allows for a better explanation of what the technology is, and how it relates to a Technology Area ![image](cpchierarchy.png)
+
+## Bug Fixes
+* Unsubscribe link in watchlist email does not work.
+
+
 <a name="2022.02.17"></a>
 # 2022.02.17 (Hotfix)
 ## Bug Fixes
