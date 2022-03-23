@@ -1,3 +1,19 @@
+<a name="2022.03.23"></a>
+# 2022.03.23
+## Features
+* ### Watchlist Improvements
+   * Watchlist creation form replace with a wizard for better usability. ![image](wwizard.png)
+   * Added company relatedness.  ![image](watchlistrelatedness.png)
+
+* ### New Plans
+  * Added Free Watchlist Plan and Watchlist Plan ![image](plans.png)
+
+* ### Submit Bug
+   * If an error on a page id detected, a bug report will automatically be filed.
+   * Users can submit bug reports by clicking clicking "Submit Bug" in the user menu. 
+   ![image](buglink.png)
+   ![image](bugreport.png)
+
 <a name="2022.03.01"></a>
 # 2022.03.01
 ## Features
