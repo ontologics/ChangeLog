@@ -10,7 +10,7 @@
 
 * ### Submit Bug
    * If an error on a page id detected, a bug report will automatically be filed.
-   * Users can submit bug reports by clicking clicking "Submit Bug" in the user menu. 
+   * Users can submit bug reports by clicking "Submit Bug" in the user menu. 
    ![image](buglink.png)
    ![image](bugreport.png)
 
