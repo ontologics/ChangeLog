@@ -1,3 +1,9 @@
+<a name="2022.03.30"></a>
+# 2022.03.30 (Hotfix)
+## Bug Fixes
+- Patent showing up multiple times in patent search due to multiple abstract sources.
+- Emergence chart nodes linking to patent search page
+
 <a name="2022.03.23"></a>
 # 2022.03.23
 ## Features
