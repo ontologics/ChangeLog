@@ -1,3 +1,8 @@
+<a name="2022.03.31"></a>
+# 2022.03.31
+## Features
+- Allow for filtering by cpc by searching description rather than typing cpc directly in Company, Competitor, and Watchlist. ![image](cpcsearch.gif)
+
 <a name="2022.03.30"></a>
 # 2022.03.30 (Hotfix)
 ## Bug Fixes
