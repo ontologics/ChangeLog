@@ -4,11 +4,14 @@
  * Innovation V2 
    * False emergence detection
    * Multiple emergence support
- * Technology Emergence ![image](ecurve.png)
+ * Technology Emergence 
+  ![image](emergence_menu.png)
+ ![image](ecurve.png)
  ![image](emergence.png)
  * Clear Filters  
  ![image](clearall.png)
  * Chart Export Naming
+ 
  ![image](export_rename.png)
 
 
