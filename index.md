@@ -1,3 +1,17 @@
+<a name="2022.05.02"></a>
+# 2022.05.02
+## Features
+ * Innovation V2 
+   * False emergence detection
+   * Multiple emergence support
+ * Technology Emergence ![image](ecurve.png)
+ ![image](emergence.png)
+ * Clear Filters  
+ ![image](clearall.png)
+ * Chart Export Naming
+ ![image](export_rename.png)
+
+
 <a name="2022.04.18"></a>
 # 2022.04.18
 ## Features
