@@ -2,6 +2,7 @@
 # 2022.05.03 (Hotfix)
 ## Features
 - Watchlist plan pricing update to $99/month
+
 ## Bug Fixes
 - Technology emergence chart not loading
 - Technology emergence chart using v1 emergence data
