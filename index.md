@@ -1,3 +1,11 @@
+<a name="2022.05.16"></a>
+# 2022.05.16 
+## Features
+* Foresight Plan
+  * $999 per month
+  * Restricted to US patents
+![image](foresight_filter.png)
+
 <a name="2022.05.03"></a>
 # 2022.05.03 (Hotfix)
 ## Features
