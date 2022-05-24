@@ -5,7 +5,7 @@
 
 ## Bug Fixes
 - Clarify Industry Value Quadrant until better representation is determined.
-  ![image](emergence_menu.png)
+  ![image](value_quadrant_subtitle.png)
 
 
 <a name="2022.05.16"></a>
