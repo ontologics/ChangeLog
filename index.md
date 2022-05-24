@@ -1,3 +1,13 @@
+<a name="2022.05.03"></a>
+# 2022.05.24 (Hotfix)
+## Features
+- Australian Patents
+
+## Bug Fixes
+- Clarify Industry Value Quadrant until better representation is determined.
+  ![image](emergence_menu.png)
+
+
 <a name="2022.05.16"></a>
 # 2022.05.16 
 ## Features
