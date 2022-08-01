@@ -1,3 +1,19 @@
+<a name="2022.08.01"></a>
+# 2022.08.01 
+## Features
+* Agent Report (Beta)
+  * Patent Distribution by Agent
+  * Patent Timeline by Agent
+  * Scorecard by Agent
+![image](agent_report.png)
+
+* Inventor Report (Beta)
+  * Patent Distribution by Inventor
+  * Patent Timeline by Inventor
+  * Scorecard by Inventor
+![image](inventor_report.png)
+
+
 <a name="2022.05.03"></a>
 # 2022.05.24 (Hotfix)
 ## Features
