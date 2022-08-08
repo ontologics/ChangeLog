@@ -1,3 +1,21 @@
+<a name="2022.08.08"></a>
+# 2022.08.01 
+## Features
+* Menu Restructure
+  * Overview first
+  * Everything else alphabatized
+![image](menu_reorder.png)
+
+* Chart Context Menu
+  * Show table of patents
+![image](showpatents.gif)
+  * Set relevant filters
+![image](filtercontext.gif)
+
+* Table pagination, filtering, and sorting
+![image](datatables.gif)
+
+
 <a name="2022.08.01"></a>
 # 2022.08.01 
 ## Features
