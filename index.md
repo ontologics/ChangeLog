@@ -1,9 +1,17 @@
 <a name="2022.08.08"></a>
+# 2022.08.15 
+## Features
+* UI Update
+  * Unified interaction buttons to the right side (gutter)
+  * Added more help info
+![image](gutter.gif)
+
+<a name="2022.08.08"></a>
 # 2022.08.01 
 ## Features
 * Menu Restructure
   * Overview first
-  * Everything else alphabatized
+  * Everything else alphabetized
 ![image](menu_reorder.png)
 
 * Chart Context Menu
