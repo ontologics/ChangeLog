@@ -1,4 +1,12 @@
-<a name="2022.08.08"></a>
+<a name="2022.08.22"></a>
+# 2022.08.15 
+## Features
+* UI Update
+  * Chart type toggles
+  * Count vs Percentage toggles
+![image](togglestacked.gif)
+
+<a name="2022.08.15"></a>
 # 2022.08.15 
 ## Features
 * UI Update
