@@ -9,6 +9,7 @@
   * Value reports aligned with assertability and innovation reports
 * UI Improvements
   * Updated Scorecard quadrant text to be more clear
+
 ## Frontend Framework Update
   * Upgrade to Angular 13
   * Applied multiple security updates
