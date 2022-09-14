@@ -9,11 +9,11 @@
   * Value reports aligned with assertability and innovation reports
 * UI Improvements
   * Updated Scorecard quadrant text to be more clear
+![image](scorecardtext.png)
 
 ## Frontend Framework Update
   * Upgrade to Angular 13
   * Applied multiple security updates
-![image](scorecardtext.png)
 
 
 <a name="2022.08.22"></a>
