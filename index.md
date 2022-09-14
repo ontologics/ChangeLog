@@ -1,3 +1,20 @@
+<a name="2022.09.14"></a>
+# 2022.09.14 
+## Features
+* Value V2
+  * GDP Added to Value Calculation
+  * GDP toggle to exclude from value calculation on relevant charts
+![image](gdptoggle.gif)
+
+  * Value reports aligned with assertability and innovation reports
+* UI Improvements
+  * Updated Scorecard quadrant text to be more clear
+## Frontend Framework Update
+  * Upgrade to Angular 13
+  * Applied multiple security updates
+![image](scorecardtext.png)
+
+
 <a name="2022.08.22"></a>
 # 2022.08.15 
 ## Features
