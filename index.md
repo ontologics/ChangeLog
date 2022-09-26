@@ -1,3 +1,16 @@
+<a name="2022.09.26"></a>
+# 2022.09.26
+## Features
+* Filter by Type ![image](type_filter.png)
+* Emerging Technologies ![image](emerging_tech.png)
+  * Company Tech 
+  * Related Tech - Click on the technology to see how it is related to the company technologies ![image](tech_relation.png)
+* Waning Technologies ![image](waning_tech.png)
+
+## Bug Fixes
+* Deduplication of patent documents
+* Better inclusion of correct kind codes.
+
 <a name="2022.09.14"></a>
 # 2022.09.14 
 ## Features
