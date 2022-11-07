@@ -1,4 +1,19 @@
 <a name="2022.09.26"></a>
+# 2022.11.07
+## Features
+* New Hompage ![image](homepage.png)
+  * Start new report with filters reset
+  * See previously ran reports
+  * See Ontologics news
+  * Inform users of key functionality through "Did you know?"
+* Other UI Improvements
+  * Re-branded Company and Competitor analysis to Portfolio and Comparative
+  * Improved user experience for filter bar  ![image](stepthru.gif)
+  * Dismissible notifications to help new users.
+  * Additional Suggested Actions added to Portfolio Overview ![image](newoverview.png)
+
+
+<a name="2022.09.26"></a>
 # 2022.09.26
 ## Features
 * Filter by Type ![image](type_filter.png)
