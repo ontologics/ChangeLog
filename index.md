@@ -1,3 +1,15 @@
+<a name="2023.03.13"></a>
+# 2023.03.13
+## Features
+* Patent Document PDF Download
+ 
+<a name="2023.02.24"></a>
+# 2023.02.24
+## Features
+* Patent Search Improvements
+  * Split Search into UCID and Title only to increase speed.
+ 
+
 <a name="2022.09.26"></a>
 # 2022.11.07
 ## Features
