@@ -1,3 +1,13 @@
+<a name="2023.03.20"></a>
+# 2023.03.20
+## Features
+* Rank UI Private Beta ![image](rank.png)
+* UI Improvements
+  * Thresholds added to Assertability, Innovation and Value timelines ![image](innovation_timeline_thresholds.png)
+  * Tech Distribution radar charts replaced with bar charts ![image](innovation_distrib_thresholds.png)
+
+
+
 <a name="2023.03.13"></a>
 # 2023.03.13
 ## Features
