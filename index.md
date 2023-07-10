@@ -1,6 +1,7 @@
 <a name="2023.07.10"></a>
 # 2023.03.20
 ## Features
+* Addition of Chinese Patents
 * Executive Dashboard Private Beta ![image](execdash.png)
 * Annuities Report Private Beta ![image](annuities.png)
 * Table Improvements
