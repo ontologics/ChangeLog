@@ -1,3 +1,13 @@
+<a name="2023.10.09"></a>
+# 2023.10.09
+## Features
+* Custom Patent List
+  * Allow user to upload a CSV file of patent numbers and save for future usage.![image](createlist.gif)
+  * List can be used as a replacement for Assignee filters in Portfolio, Competitor, and Industry searches ![image](uselist.gif)
+  * Lists can be updated or deleted. ![image](listcrud.gif)
+
+
+
 <a name="2023.07.10"></a>
 # 2023.07.10
 ## Features
